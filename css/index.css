@@ -7,7 +7,7 @@
 
 .nb-2{
     background: #FF52C1;
-    width: 40%;
+    width: 55%;
     height: 40px;
     font-size: 15px;
 }
@@ -101,6 +101,7 @@ footer .ul-four li{
 
     header .one h2{
         width: 100%;
+        font-size: 35px;
     }
     header .one p{
         width: 65%;
